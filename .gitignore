@@ -1,0 +1,20 @@
+# React dependencies
+contact-management-frontend/node_modules/
+
+# React production build
+contact-management-frontend/dist/
+
+# Spring Boot Maven build
+contact-management-backend/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Environment files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
